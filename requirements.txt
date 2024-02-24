@@ -1,5 +1,5 @@
 langchain_core==0.1.6
-IPython==8.21.0
+IPython
 ipykernel==6.29.2
 python-dotenv==1.0.1
 numpy==1.26.4
